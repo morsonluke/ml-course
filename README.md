@@ -5,6 +5,7 @@ Contains worked examples from the ML engineering nanodegree from Udacity
 * Predicting Boston House Prices
 * Finding Donors
 * Customer Segments
+* Gradient Descent
 
 ---
 
@@ -62,6 +63,8 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Deep Neural Networks
     * Keras
     * Convolutional Neural Networks
+       * Categorical Cross-Entropy
+       * Local connectivity
        * Convolutional Layers
        * Stride and Padding
        * Pooling Layers
@@ -79,18 +82,32 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
 * Machine Learning Capstone
 
 ### Links
-* [Tip & Tricks from Udacity](https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks)
-* [Alogrithm selection](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice), [Link2](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
-* [Visual guide to Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-* [Grid search hyperparamters for Deep Learning in Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+- [ ] [Tip & Tricks from Udacity](https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks)
+- [ ] [Alogrithm selection](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice), [Link2](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+- [ ] [Visual guide to Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+- [ ] [Grid search hyperparamters for Deep Learning in Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+- [ ] [Keras cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
+- [ ] [CNN Benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
+- [ ] [Haar-cascade Detection in OpenCV](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
+- [x] [Convolutional Neural Networks for Visual Recogntion](http://cs231n.github.io/neural-networks-1/#actfun)
+- [ ] [Dendritic Computation](https://neurophysics.ucsd.edu/courses/physics_171/annurev.neuro.28.061604.135703.pdf)
 
 ### Papers
-* [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
-* [Nonparametric discovery of human routines from sensor data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.681.3152&rep=rep1&type=pdf)
-* [Speaker Verification Using Adapted Gaussian
+- [ ] [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
+- [ ] [Nonparametric discovery of human routines from sensor data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.681.3152&rep=rep1&type=pdf)
+- [ ] [Speaker Verification Using Adapted Gaussian
 Mixture Models 1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf)
-* [Adaptive background mixture models for real-time tracking](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)
-* [Random projection in dimensionality reduction: Applications to image and text data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.8124&rep=rep1&type=pdf)
-* [Random projections for k-means Clustering](https://papers.nips.cc/paper/3901-random-projections-for-k-means-clustering.pdf)
-* [Independent component analysis: algorithms and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.322.679&rep=rep1&type=pdf)
-* [Independent Component Analysis of Electroencephalographic Data](http://papers.nips.cc/paper/1091-independent-component-analysis-of-electroencephalographic-data.pdf)
+- [ ] [Adaptive background mixture models for real-time tracking](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)
+- [ ] [Random projection in dimensionality reduction: Applications to image and text data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.8124&rep=rep1&type=pdf)
+- [ ] [Random projections for k-means Clustering](https://papers.nips.cc/paper/3901-random-projections-for-k-means-clustering.pdf)
+- [ ] [Independent component analysis: algorithms and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.322.679&rep=rep1&type=pdf)
+- [ ] [Independent Component Analysis of Electroencephalographic Data](http://papers.nips.cc/paper/1091-independent-component-analysis-of-electroencephalographic-data.pdf)
+- [ ] [ImageNet Classification with Deep Convolutional
+Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [ ] [VERY DEEP CONVOLUTIONAL NETWORK FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)
+- [ ] [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
+- [ ] [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
+- [ ] [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056.epdf)
+- [ ] [Learning deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+- [ ] [Dropout: A Simple Way to Prevent Neural Networks from
+Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
