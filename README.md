@@ -6,6 +6,7 @@ Contains worked examples from the ML engineering nanodegree from Udacity
 * Finding Donors
 * Customer Segments
 * Gradient Descent
+* Dog Project
 
 ---
 
@@ -89,7 +90,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
 - [ ] [Keras cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
 - [ ] [CNN Benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 - [ ] [Haar-cascade Detection in OpenCV](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
-- [x] [Convolutional Neural Networks for Visual Recogntion](http://cs231n.github.io/neural-networks-1/#actfun)
+- [ ] [Convolutional Neural Networks for Visual Recogntion](http://cs231n.github.io/neural-networks-1/#actfun)
 - [ ] [Dendritic Computation](https://neurophysics.ucsd.edu/courses/physics_171/annurev.neuro.28.061604.135703.pdf)
 
 ### Papers
