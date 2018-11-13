@@ -1,16 +1,6 @@
-### ML Engineer Nanodegree - Udacity
-
-Contains worked examples from the ML engineering nanodegree from Udacity
-
-* Predicting Boston House Prices
-* Finding Donors
-* Customer Segments
-* Gradient Descent
-* Dog Project
-
 ---
 
-What I'm learning as part of my 6 month course to ["become a Machine Learning Engineer"](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by 'Udacity`.
+What I'm learning as part of my 6 month course to ["become a Machine Learning Engineer"](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by `Udacity`. 
 
 ### Core Curriculum
 
@@ -72,8 +62,13 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
        * Image augmentation in Keras
        * Transfer Learning
     * Deep learning for cancer detection with Sebastian Thrun
-    * Deep Learning Project - CNN project to recognise dog breeds
-* Reinforcement Learning
+    * Deep Learning Project - CNN project to recognise dog breeds 
+* [Reinforcement Learning](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
+    * [Udacity cheatsheet](https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf)
+    * [Python implemtnation of RL](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+       * Bellman Equations 
+       * OpenAI Gym
+    * Dynamic Programming
     * Monte Carlo Methods
     * Temporal-Difference Methods
     * Deep Q-Learning
@@ -92,6 +87,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
 - [ ] [Haar-cascade Detection in OpenCV](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
 - [ ] [Convolutional Neural Networks for Visual Recogntion](http://cs231n.github.io/neural-networks-1/#actfun)
 - [ ] [Dendritic Computation](https://neurophysics.ucsd.edu/courses/physics_171/annurev.neuro.28.061604.135703.pdf)
+- [ ] [Dynamic programming vs Reinforcement Learning](https://viktorqvarfordt.com/notes/rl/)
 
 ### Papers
 - [ ] [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
@@ -112,3 +108,17 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
 - [ ] [Learning deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 - [ ] [Dropout: A Simple Way to Prevent Neural Networks from
 Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+- [ ] [Low Power Wireless Communication via
+Reinforcement Learning ](https://papers.nips.cc/paper/1740-low-power-wireless-communication-via-reinforcement-learning.pdf)
+- [ ] [Inventory management in supply chains:
+a reinforcement learning approach](http://read.pudn.com/downloads142/sourcecode/others/617477/inventory%20supply%20chain/04051310570412465(1).pdf)
+- [ ] [Example Udacity Capstone Project for RL](https://github.com/ucaiado/QLearning_Trading)
+- [ ] [Reinforcement Learning with Replacing Eligibility Traces](http://www-anw.cs.umass.edu/legacy/pubs/1995_96/singh_s_ML96.pdf)
+- [ ] [Hierarchical Reinforcement Learning with the MAXQ Value
+Function Decomposition](https://arxiv.org/pdf/cs/9905014.pdf)
+
+### Reinforcement Learning
+* **Policy Iteration** - Finds the optimal policy through successive rounds of evaluation and improvement.
+* **Policy Improvement** - Given a value function corresponding to a policy, proposes a better (or equal) policy.
+* **(Iterative) Policy Evaluation** - Computes the value function corresponding to an arbitrary policy.
+* **Value Iteration** - Finds the optimal policy through successive rounds of evaluation and improvement (where the evaluation step is stopped after a single sweep through the state space).
