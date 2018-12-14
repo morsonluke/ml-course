@@ -1,1 +1,1 @@
-* Placeholder folders for images generated from `pre_processing.ipynb`
+* Placeholder folder for images generated from `pre_processing.ipynb`
