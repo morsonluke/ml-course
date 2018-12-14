@@ -8,4 +8,4 @@
 
 | File | Description |
 | --- | --- |
-| `setting_up_EC2_instance.html` | Shows how the EC2 instance was created and configured for training the model | 
+| `setting_up_EC2_instance.md` | Shows how the EC2 instance was created and configured for training the model | 
