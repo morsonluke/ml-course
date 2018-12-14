@@ -1,1 +1,1 @@
-* Contains empty folders folders images generated from `pre_processing.ipynb`
+* Placeholder folders for images generated from `pre_processing.ipynb`
