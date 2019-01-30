@@ -88,6 +88,19 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
 - [ ] [Convolutional Neural Networks for Visual Recogntion](http://cs231n.github.io/neural-networks-1/#actfun)
 - [ ] [Dendritic Computation](https://neurophysics.ucsd.edu/courses/physics_171/annurev.neuro.28.061604.135703.pdf)
 - [ ] [Dynamic programming vs Reinforcement Learning](https://viktorqvarfordt.com/notes/rl/)
+- [ ] [How to deliver on Machine Learning projects](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
+- [ ] [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+- [ ] [Matthews correlation coefficient](https://scikitlearn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html)
+- [ ] [Awesome Visualisation Research](https://github.com/mathisonian/awesome-visualization-research)
+- [ ] [Google Visualisation Tool](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+- [ ] [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+- [ ] [ML Systems in the Real World](https://developers.google.com/machine-learning/crash-course/real-world-guidelines)
+- [ ] [Tuning hyperparams fast with Hyperband](http://fastml.com/tuning-hyperparams-fast-with-hyperband/)
+- [ ] [Model evaluation, model selection, and algorithm selection in machine learning](https://sebastianraschka.com/blog/2018/model-evaluation-selection-part4.html)
+- [ ] [How to Calculate Bootstrap Confidence Intervals For Machine Learning Results in Python](https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/)
+- [ ] [DeepVis](https://github.com/yosinski/deep-visualization-toolbox)
+- [ ] [Picasso](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
+- [ ] [Lucid](https://github.com/tensorflow/lucid)
 
 ### Papers
 - [ ] [Structured Inference Networks for Nonlinear State Space Models](https://arxiv.org/pdf/1609.09869.pdf)
@@ -116,24 +129,3 @@ a reinforcement learning approach](http://read.pudn.com/downloads142/sourcecode/
 - [ ] [Reinforcement Learning with Replacing Eligibility Traces](http://www-anw.cs.umass.edu/legacy/pubs/1995_96/singh_s_ML96.pdf)
 - [ ] [Hierarchical Reinforcement Learning with the MAXQ Value
 Function Decomposition](https://arxiv.org/pdf/cs/9905014.pdf)
-
-### Reinforcement Learning
-* **Policy Iteration** - Finds the optimal policy through successive rounds of evaluation and improvement.
-* **Policy Improvement** - Given a value function corresponding to a policy, proposes a better (or equal) policy.
-* **(Iterative) Policy Evaluation** - Computes the value function corresponding to an arbitrary policy.
-* **Value Iteration** - Finds the optimal policy through successive rounds of evaluation and improvement (where the evaluation step is stopped after a single sweep through the state space).
-
-### Capstone Feedback Links!
-- [ ] [How to deliver on Machine Learning projects](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
-- [ ] [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
-- [ ] [Matthews correlation coefficient](https://scikitlearn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html)
-- [ ] [Awesome Visualisation Research](https://github.com/mathisonian/awesome-visualization-research)
-- [ ] [Google Visualisation Tool](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
-- [ ] [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
-- [ ] [ML Systems in the Real World](https://developers.google.com/machine-learning/crash-course/real-world-guidelines)
-- [ ] [Tuning hyperparams fast with Hyperband](http://fastml.com/tuning-hyperparams-fast-with-hyperband/)
-- [ ] [Model evaluation, model selection, and algorithm selection in machine learning](https://sebastianraschka.com/blog/2018/model-evaluation-selection-part4.html)
-- [ ] [How to Calculate Bootstrap Confidence Intervals For Machine Learning Results in Python](https://machinelearningmastery.com/calculate-bootstrap-confidence-intervals-machine-learning-results-python/)
-- [ ] [DeepVis](https://github.com/yosinski/deep-visualization-toolbox)
-- [ ] [Picasso](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
-- [ ] [Lucid](https://github.com/tensorflow/lucid)
