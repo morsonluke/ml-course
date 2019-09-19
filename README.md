@@ -2,7 +2,15 @@
 
 What I'm learning as part of my 6 month course to ["become a Machine Learning Engineer"](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by `Udacity`. 
 
-### Core Curriculum
+### Projects
+* Predicting boston housing prices
+* Creating customer segments
+* Finding donors for CharityML
+* Deep RL quadcopter controller
+* Dog dreed recognition classifier
+* Capstone project - "Character Recognition in Natural Scene Images"
+
+####  What I learnt
 
 * Model Evaluation and Validation
   * [Exploratory Data Analysis](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python)
