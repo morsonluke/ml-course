@@ -31,6 +31,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Decision Tree
     * Support Vector Machine
   * NumPy and Pandas
+  
 * Supervised Learning
   * Perceptron Algorithm
   * Decision Trees
@@ -45,6 +46,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Bagging
     * AdaBoost, [Original paper](https://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf), [great tutorial](http://rob.schapire.net/papers/explaining-adaboost.pdf)
     * [Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+    
 * Unsupervised Learning
     * K-Means
     * [Hierarchical and Denisty-based Clustering](https://pages.cpsc.ucalgary.ca/~mahanti/papers/clustering.pdf)
@@ -56,6 +58,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Random Projection and ICA
        * Johnson-Lindenstrauss lemma
        * FastICA Algorithm
+       
 * Deep Learning
     * Neural Networks
     * Cloud computing on Amazon GPU instance
@@ -83,6 +86,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Policy-Based Methods
     * Actor-Critic Methods
     * Teach a Quadcopter How to Fly
+    
 * Machine Learning Capstone
 
 ### Links
@@ -122,7 +126,7 @@ Mixture Models 1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.3
 - [ ] [Independent Component Analysis of Electroencephalographic Data](http://papers.nips.cc/paper/1091-independent-component-analysis-of-electroencephalographic-data.pdf)
 - [ ] [ImageNet Classification with Deep Convolutional
 Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [ ] [VERY DEEP CONVOLUTIONAL NETWORK FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)
+- [ ] [Very Deep Convolutional Network For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
 - [ ] [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
 - [ ] [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
 - [ ] [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056.epdf)
