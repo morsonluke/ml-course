@@ -1,9 +1,9 @@
 ---
 
-What I'm learning as part of my 6 month course to ["become a Machine Learning Engineer"](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by `Udacity`. 
+What I learnt as part of my 6 month course to ["become a Machine Learning Engineer"](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by `Udacity`. 
 
 ### Projects
-* Predicting boston housing prices
+* [Predicting boston housing prices](boston_housing/)
 * Creating customer segments
 * Finding donors for CharityML
 * Deep RL quadcopter controller
@@ -87,7 +87,7 @@ What I'm learning as part of my 6 month course to ["become a Machine Learning En
     * Actor-Critic Methods
     * Teach a Quadcopter How to Fly
     
-* Machine Learning Capstone
+* Machine Learning Capstone project "Character Recognition in Natural Scene Images"
 
 ### Links
 - [ ] [Tip & Tricks from Udacity](https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks)
